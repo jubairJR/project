@@ -1,0 +1,32 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(200, 3, 3);
+    margin: 50px;
+    margin-right: 1000px ;
+    /* align-content: center; note : Does this align work? */
+}
+
+.signup{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+}
+
+.subline{
+    text-align: center;
+}
+
+form{
+    color: rgb(0, 0, 0);
+    margin: 20px;
+    font-size: 18px; 
+    display: block;
+    /* please try to put inline display */
+}
+
+input{   /* [type="text"], input [type="password"] */
+    padding: 10px;
+    background-color: #f2f2f2
+}
